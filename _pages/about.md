@@ -28,23 +28,23 @@ My research focuses on **natural language processing** and **machine learning**.
 
 ## Publications
 
-*2025*
+**2025**
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br>\ **[Junteng Liu](https://github.com/Vicent0215)**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shiru, Ailin Chen, Shiyi Yu, Yunan Nie, Moqi Zhao, Pengyu Liu, Junjie Dai, Junxian He.<br>\ _ArXiv_. GitHub code repository.
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br>Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *ArXiv*, 2025. Has a GitHub code repository.
 
-2. **On the Perception Bottleneck of VLMs for Chart Understanding**<br>\ **[Junteng Liu](https://github.com/Vicent0215)**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.<br>\ _ArXiv_. GitHub code repository: `Vision4Chart`.
+2. **On the Perception Bottleneck of VLMs for Chart Understanding**<br>Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *ArXiv*, 2025. GitHub code repository: `Vision4Chart`.
 
-*2024*
+**2024**
 
-3. **On the Universal Truthfulness Hyperplane Inside LLMs**<br>\ **[Junteng Liu](https://github.com/Vicent0215)**, Shiyi Chen, Yu Cheng, Junxian He.<br>\ **EMNLP 2024**. GitHub code repository: `Universal_Truthfulness_Hyperplane`.
+3. **On the Universal Truthfulness Hyperplane Inside LLMs**<br>Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He.*EMNLP 2024*. GitHub code repository: `Universal_Truthfulness_Hyperplane`.
 
-4. In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation<br>\ Shiyi Chen, Miao Xiong, **[Junteng Liu](https://github.com/Vicent0215)**, Zhenxuan Wu, Teng Xiao, Siyang Gao, Junxian He.<br>\ **ICML 2024**.
+4. In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation<br>Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
 
-*2023*
+**2023**
 
-5. C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models<br>\ Yuzhao Huang, Yuzhuo Bai, Zhehong Zhu, Junli Zhang, Jingzhen Shen, Tanjun Su, **[Junteng Liu](https://github.com/Vicent0215)**, Chuanxi Shen, Yama Fun, Jiayin Liu, Yaorong Fu, Huimeng Sun, Junxian He.<br>\ **NeurIPS 2023**.
+5. C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models<br>Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuanxiangyun, Yikai Zhang, jiayi Lei, Yao Fu, Maitong Jun, Junxian He.*NeurIPS 2023*.
 
-6. Composing Parameter-Efficient Modules with Arithmetic Operations<br>\ Jingzhen Shen, Shiyi Chen, **[Junteng Liu](https://github.com/Vicent0215)**, Junxian He.<br>\ **NeurIPS 2023**.
+6. Composing Parameter-Efficient Modules with Arithmetic Operations<br>Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.*NeurIPS 2023*.
 
 ## Awards
 
