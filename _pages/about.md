@@ -36,15 +36,15 @@ My research focuses on **natural language processing** and **machine learning**.
 
 **2024**
 
-3. **On the Universal Truthfulness Hyperplane Inside LLMs**<br>Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He.*EMNLP 2024*. GitHub code repository: `Universal_Truthfulness_Hyperplane`.
+3. **On the Universal Truthfulness Hyperplane Inside LLMs**<br>Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. GitHub code repository: `Universal_Truthfulness_Hyperplane`.
 
 4. In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation<br>Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
 
 **2023**
 
-5. C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models<br>Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuanxiangyun, Yikai Zhang, jiayi Lei, Yao Fu, Maitong Jun, Junxian He.*NeurIPS 2023*.
+5. C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models<br>Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*.
 
-6. Composing Parameter-Efficient Modules with Arithmetic Operations<br>Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.*NeurIPS 2023*.
+6. Composing Parameter-Efficient Modules with Arithmetic Operations<br>Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. *NeurIPS 2023*.
 
 ## Awards
 
