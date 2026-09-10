@@ -39,6 +39,6 @@ Awards
 
 Publications
 ======
-  \u003cul\u003e{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}\u003c/ul\u003e
+  {% endfor %}</ul>
